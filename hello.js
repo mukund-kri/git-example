@@ -1,6 +1,5 @@
-console.log("Hello world");
+console.log("Hello sjdhfjd world");
 
 
-console.log("One more line");
 
 
